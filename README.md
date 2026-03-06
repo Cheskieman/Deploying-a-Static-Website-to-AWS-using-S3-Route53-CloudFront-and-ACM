@@ -11,15 +11,49 @@
 
 **Set up an S3 bucket and (possibly: deploy a static website)**
 
-*Select by typing S3 from AWS Searchbar 
+*Select by typing S3 from the AWS Searchbar 
 
 *Select Create Bucket
 
 *Give your bucket a name
 
+*Deselect the Block all public access box and select the acknowledged box 
+
 *Select Create Bucket at the bottom.
 
-*Repeat the process to create a second S3 bucket(however give the second bucket a diffferent name
+* Select the recently created Bucket
+
+* Select the Upload button from the right
+
+* Select the Add files button
+
+* Select the files for uploading( one should include an index.html file)
+
+* Select Upload from the bottom
+
+ **Request a Certificate from Certificate Manager**
+
+ * Select by typing Certificate Manager from the AWS Searchbar
+
+ * Make sure the region is the same as the S3 Bucket that was created
+
+ * Select the Request button on the right
+
+ * Select Request a public certificate
+
+ * Select Next at the bottom of the page
+
+ * Select a name for a fully qualified domain name
+
+ * Select the Request button at the bottom
+
+ * Select the recently created certificate
+
+ * Select the Create records in Route 53 button
+
+ * Select Create records button
+
+   
 
  
 
