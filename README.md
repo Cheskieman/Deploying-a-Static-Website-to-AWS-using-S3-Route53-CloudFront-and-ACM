@@ -51,7 +51,7 @@
 
  * Select the Create records in Route 53 button
 
- * Select Create records button
+ * Select the Create records button
 
    
 
