@@ -102,47 +102,53 @@
 *Select by typing CloudFront from the AWS Searchbar
  * Select the Create records button
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select Cloudfront from Searchbar.png" alt="Select CloudFront from AWS Searchbar" width="900" />  
 </p> 
 *Give the Distribution a name
  * Select the Create records button
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Give Distribution a name.png" alt="Give Distribution a name" width="900" />  
 </p> 
 *Select  Next at the bottom
  * Select the Create records button
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Click next .png" alt="Click Next" width="900" />  
 </p> 
 *Select Amazon S3 as the Origin Type
+<p align="center">  
+  <img src="resources/Select S3 origin.png" alt="Select S3 as records type" width="900" />  
+</p> 
  * Select the Create records button
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select Create records button.png" alt="Select Create records button" width="900" />  
 </p> 
 *Select the Browse S3 and select the S3 bucket created earlier 
- * Select the Create records button
-<p align="center">  
+ <p align="center">  
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+* Select the Create records button
+<p align="center">  
+  <img src="resources/Select Create records button.png" alt="Select Create Records button" width="900" />  
 </p> 
 *Select Next at the bottom
  * Select the Create records button
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Click next .png" alt="Select the Next Button" width="900" />  
 </p> 
 *Select Enable security protections for the Web Application firewall
  * Select the Create records button
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Enable security Web Application firewall.png" alt="Select Enable Security" width="900" />  
 </p> 
 *Select Next at the bottom
  * Select the Create records button
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Click next .png" alt="Select Next " width="900" />  
 </p> 
 *Select the Create distribution button at the bottom
- * Select the Create records button
+ * Select the Creaecords button
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select Create Distribution initial.png" alt="Select Create Distributions" width="900" />  
 </p> 
 *Select the General tab
  * Select the Create records button
