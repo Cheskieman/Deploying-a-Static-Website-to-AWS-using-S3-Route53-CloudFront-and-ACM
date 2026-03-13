@@ -4,12 +4,16 @@
 
 ### This project will demonstrate how to:
 
-*Set up an S3 bucket and (possibly: deploy a static website)
+*Set up an S3 bucket to deploy a static website
+
+*Create a certificate for your domain from Certificate Manager 
+
+*Create a CloudFront Distribution in order ......
 
 
 #### Step-by-step Instruction guidance
 
-**Set up an S3 bucket and (possibly: deploy a static website)**
+**Set up an S3 bucket to deploy a static website**
 
 *Select by typing S3 from the AWS Searchbar 
 <p align="center">  
@@ -50,7 +54,7 @@
   <img src="resources/select upload for s3 bucket content.png" alt="Select Upload" width="900" />  
 </p>  
  
- **Request a Certificate from Certificate Manager**
+ **Create a certificate for your domain from Certificate Manager**
 
  * Select by typing Certificate Manager from the AWS Searchbar
 <p align="center">  
@@ -92,6 +96,185 @@
 <p align="center">  
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
 </p>  
+
+**Create a CloudFront Distribution in order ......**
+
+*Select by typing CloudFront from the AWS Searchbar
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Give the Distribution a name
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select  Next at the bottom
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select Amazon S3 as the Origin Type
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Browse S3 and select the S3 bucket created earlier 
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select Next at the bottom
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select Enable security protections for the Web Application firewall
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select Next at the bottom
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Create distribution button at the bottom
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the General tab
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Edit button
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Type the CNAME of the domain
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the certificate created earlier
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Type index.html for the Default root object
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Save changes button at the bottom
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Origins Tab
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Behaviors tab
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Create behaviors button
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the asterisk symbol for the path pattern
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the S3 Bucket created earlier for Origins and origins groups
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Create behavior button at the bottom
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the circle next to the Origin name
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Edit tab
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Copy policy button and then press cancel at the bottom
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Return to the S3 bucket created earlier and open the Permissions tab
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Scroll down and select the Edit button from the Bucket policy window
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Paste the policy copied from earlier
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Save changes button
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select by typing Route 53 from the AWS Searchbar
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+* Select Hosted zones from the left-hand navigation panel
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+* Select the Hosted zone that was created
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+* Select Create record
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select Alias to Cloudfront Distribution
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the CloudFront Distribution created from earlier
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Create records button
+ * Select the Create records button
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+
    
 
  
