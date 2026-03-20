@@ -117,11 +117,11 @@
 </p> 
 *Select Amazon S3 as the Origin Type
 <p align="center">  
-  <img src="resources/Select S3 origin.png" alt="Select S3 as records type" width="900" />  
+  <img src="" alt="Select S3 as records type" width="900" />  
 </p> 
 *Select the Browse S3 and select the S3 bucket created earlier 
  <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select S3 origin.png" alt="Select Create Records" width="900" />  
 </p> 
 *Select Next at the bottom
 <p align="center">  
@@ -129,7 +129,7 @@
 </p> 
 *Select Enable security protections for the Web Application firewall
 <p align="center">  
-  <img src="resources/Click next .png" alt="Select the Next Button" width="900" />  
+  <img src="resources/Enable security Web Application firewall.png" alt="Select the Next Button" width="900" />  
 </p> 
 *Select Next at the bottom
 <p align="center">  
@@ -141,79 +141,79 @@
 </p> 
 *Select the General tab
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select the general tab cloudformation.png" alt="Select Create Records" width="900" />  
 </p> 
 *Select the Edit button
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select the edit tab.png" alt="Select the edit tab" width="900" />  
 </p> 
 *Type the CNAME of the domain
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select the edit tab.png" alt="Select Create Records" width="900" />  
 </p> 
 *Select the certificate created earlier
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Recently created certificate.png" alt="Select certificate created earlier" width="900" />  
 </p> 
 *Type index.html for the Default root object
  <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/index.html for default root object.png" alt="Select index.html" width="900" />  
 </p> 
 *Select the Save changes button at the bottom
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select save Changes button bottom.png" alt="Select save changes" width="900" />  
 </p> 
 *Select the Origins Tab
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select Origins Tab .png" alt="Select Oriigin Tab" width="900" />  
 </p> 
 *Select the circle next to the Origin name
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select Origins Tab .png" alt="Select Circle Next to Origin Name" width="900" />  
 </p> 
 *Select the Edit tab
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select the edit tab.png" alt="Select the edit tab" width="900" />  
 </p> 
 *Select the Copy policy button and then press cancel at the bottom
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select the edit tab.png" alt="Select Policy Tab" width="900" />  
 </p> 
 *Select the Behaviors tab
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select Behavior tab cloud front.png" alt="Select Behaviors Tab" width="900" />  
 </p> 
 *Select the Create behaviors button
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select Creae Behavior.png" alt="Select Create Behavior" width="900" />  
 </p> 
 *Select the asterisk symbol for the path pattern
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select asterisk for path pattern.png" alt="Select Asterisk symbol" width="900" />  
 </p> 
 *Select the S3 Bucket created earlier for Origins and origins groups
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/click on recently created s3 bucket.png" alt="Select S3 Bucket created Earlier from origin and origin groups" width="900" />  
 </p> 
 *Select the Create behavior button at the bottom
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select Creae Behavior.png" alt="Select Behavior Button" width="900" />  
 </p> 
 *Return to the S3 bucket created earlier and open the Permissions tab
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select Permissons tab s3 bucket.png" alt="Select Permissions Tab S3 Bucket" width="900" />  
 </p> 
 *Scroll down and select the Edit button from the Bucket policy window
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select edit from the from the bucket policy window.png" alt="Select Edit button" width="900" />  
 </p> 
 *Paste the policy copied from earlier
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Paste the policy copied from earlier.png" alt="Copy Earlier Policy" width="900" />  
 </p> 
 *Select the Save changes button
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select save Changes button bottom.png" alt="Select CSave Button" width="900" />  
 </p> 
 
 
