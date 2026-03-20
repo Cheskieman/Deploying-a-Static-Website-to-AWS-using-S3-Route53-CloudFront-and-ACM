@@ -173,7 +173,7 @@
 </p> 
 *Select the circle next to the Origin name
 <p align="center">  
-  <img src="resources/Select Origins Tab .png" alt="Select Circle Next to Origin Name" width="900" />  
+  <img src="resources/Select circle next to origin name.png" alt="Select Circle Next to Origin Name" width="900" />  
 </p> 
 *Select the Edit tab
 <p align="center">  
@@ -181,7 +181,7 @@
 </p> 
 *Select the Copy policy button and then press cancel at the bottom
 <p align="center">  
-  <img src="resources/Select the edit tab.png" alt="Select Policy Tab" width="900" />  
+  <img src="resources/Select the copy policy tab.png" alt="Select Policy Tab" width="900" />  
 </p> 
 *Select the Behaviors tab
 <p align="center">  
