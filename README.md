@@ -153,7 +153,7 @@
 </p> 
 *Type the CNAME of the domain
 <p align="center">  
-  <img src="resources/Select the edit tab.png" alt="Select Create Records" width="900" />  
+  <img src="resources/add my cname to the cloud distribution.png" alt="Type CNAME" width="900" />  
 </p> 
 *Select the certificate created earlier
 <p align="center">  
