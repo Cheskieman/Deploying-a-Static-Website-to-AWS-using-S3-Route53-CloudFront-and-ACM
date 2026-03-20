@@ -8,7 +8,9 @@
 
 *Create a certificate for your domain from Certificate Manager 
 
-*Create a CloudFront Distribution in order ......
+*Create a CloudFront Distribution to host the S3 Static Website
+
+*Configure a Route 53 DNS record to route the domain to a CloudFront distribution
 
 
 #### Step-by-step Instruction guidance
@@ -97,7 +99,7 @@
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
 </p>  
 
-**Create a CloudFront Distribution in order ......**
+**Create a CloudFront Distribution to host the S3 Static Website**
 
 *Select by typing CloudFront from the AWS Searchbar
 <p align="center">  
@@ -216,6 +218,11 @@
 <p align="center">  
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
 </p> 
+
+
+**Configure a Route 53 DNS record to route the domain to a CloudFront distribution**
+
+
 *Select by typing Route 53 from the AWS Searchbar
 <p align="center">  
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
@@ -245,7 +252,14 @@
 <p align="center">  
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
 </p> 
-
+*Select the Distribution domain name in the CloudFront Distributions tab and type it into the URL
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Alternate domain name in the CloudFront Distributions tab and type it into the URL
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
    
 
  
