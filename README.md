@@ -17,7 +17,12 @@
 **This project assumes that you have a Hosted Zone(s) already created**
 
 
+
+
+
 #### Step-by-Step instruction guidance
+
+
 
 **Set up an S3 bucket to deploy a static website**
 
@@ -265,7 +270,8 @@
   <img src="resources/alternate domain name cloudfront for url.png" alt="Select Alternate Domain Name" width="900" />  
 </p> 
 
-*The static website should load by applying the above two ways
+**The static website can be successfully accessed using both the Route 53 domain and the CloudFront distribution URL.**
+
    
 
  
