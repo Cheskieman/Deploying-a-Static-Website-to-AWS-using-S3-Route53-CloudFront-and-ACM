@@ -121,7 +121,7 @@
 </p> 
 *Select Amazon S3 as the Origin Type
 <p align="center">  
-  <img src="" alt="Select S3 as records type" width="900" />  
+  <img src="resources/s3 as origin type.png" alt="Select S3 as origin type" width="900" />  
 </p> 
 *Select the Browse S3 and select the S3 bucket created earlier 
  <p align="center">  
