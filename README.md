@@ -13,6 +13,10 @@
 *Configure a Route 53 DNS record to route the domain to a CloudFront distribution
 
 
+
+**This project assumes that you have a Hosted Zone(s) already created**
+
+
 #### Step-by-Step instruction guidance
 
 **Set up an S3 bucket to deploy a static website**
@@ -222,28 +226,31 @@
 
 *Select by typing Route 53 from the AWS Searchbar
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Serlect Route 53 from AWS Searchbar.png" alt="Select Route 53 from AWS Searchbar" width="900" />  
 </p> 
 * Select Hosted zones from the left-hand navigation panel
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select Hosted zones from the navigation panel.png" alt="Select Hosted Zones from the left-handed navigation panel" width="900" />  
 </p> 
 * Select the Hosted zone that was created
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select the hosted zone created.png" alt="Select the Created Hosted Zones" width="900" />  
 </p> 
 * Select Create record
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/Select Create records button.png" alt="Select Create Record" width="900" />  
+</p> 
+*Select the Alias to the on position
+<p align="center">  
+  <img src="resources/Turn Alias button to on.png" alt="Turn the Alias to on position" width="900" />  
 </p> 
 *Select Alias to Cloudfront Distribution
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/alis to cloudfont route traffic to.png" alt="Select Alias to Cloudfront Distribution" width="900" />  
 </p> 
-*Select "Alias to Cloudfront Distribution."
 *Select the CloudFront Distribution created earlier
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/alias to cloudfront my actual cloudfront alias.png" alt="Select Cloudfronty Distribution" width="900" />  
 </p> 
 *Select the Create records button
 <p align="center">  
@@ -251,12 +258,14 @@
 </p> 
 *Select the Distribution domain name in the CloudFront Distributions tab and type it into the URL
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/domain distribiution name cloudfront for url.png" alt="Select Distribution Domain Name" width="900" />  
 </p> 
 *Select the Alternate domain name in the CloudFront Distributions tab and type it into the URL
 <p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+  <img src="resources/alternate domain name cloudfront for url.png" alt="Select Alternate Domain Name" width="900" />  
 </p> 
+
+*The static website should load by applying the above two ways
    
 
  
