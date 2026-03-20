@@ -43,8 +43,10 @@
 </p>  
 *Select the Add files button
 <p align="center">  
-  <img src="resources/select upload for s3 bucket content.png" alt="Add Files" width="900" />  
+  <img src="resources/select add files to s3 bucket.png" alt="Add Files" width="900" />  
 </p>  
+
+
 *Select the files for uploading( one should include an index.html file)
 
 *Select Upload from the bottom
