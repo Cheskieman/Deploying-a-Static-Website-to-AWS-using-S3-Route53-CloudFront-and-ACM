@@ -105,7 +105,7 @@
 </p> 
 *Select Create Distribution
 <p align="center">  
-  <img src="resources/Give Distribution a name.png" alt="Give Distribution a name" width="900" />  
+  <img src="resources/Select Create Distribution initial.png" alt="Give Distribution a name" width="900" />  
 </p> 
 *Give the Distribution a name
 <p align="center">  
@@ -167,6 +167,18 @@
 <p align="center">  
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
 </p> 
+*Select the circle next to the Origin name
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Edit tab
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
+*Select the Copy policy button and then press cancel at the bottom
+<p align="center">  
+  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
+</p> 
 *Select the Behaviors tab
 <p align="center">  
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
@@ -184,19 +196,6 @@
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
 </p> 
 *Select the Create behavior button at the bottom
- * Select the Create records button
-<p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
-</p> 
-*Select the circle next to the Origin name
-<p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
-</p> 
-*Select the Edit tab
-<p align="center">  
-  <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
-</p> 
-*Select the Copy policy button and then press cancel at the bottom
 <p align="center">  
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
 </p> 
