@@ -236,6 +236,7 @@
 <p align="center">  
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
 </p> 
+*Select "Alias to Cloudfront Distribution."
 *Select the CloudFront Distribution created earlier
 <p align="center">  
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
