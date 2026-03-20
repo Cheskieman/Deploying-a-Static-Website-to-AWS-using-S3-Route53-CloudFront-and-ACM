@@ -90,7 +90,7 @@
 <p align="center">  
   <img src="resources/click create records route 53 button.png" alt="Select Create Records in Route 53 " width="900" />  
 </p>  
- * Select the Create records button
+ *Select the Create records button
 <p align="center">  
   <img src="resources/select create records button.png" alt="Select Create Records" width="900" />  
 </p>  
